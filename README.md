@@ -10,3 +10,8 @@
 
 <h1>encobfus</h1>
 A program that obfuscates Python code with multiple types of encryption
+
+# Encryption Methods(in most recent version)
+
+* AES
+
