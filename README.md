@@ -7,5 +7,6 @@
   <a href="https://github.com/pact8/encobfus/network"><img src="https://img.shields.io/github/forks/encobfus/encobfus.svg"/></a>
   <a href="https://github.com/pact8/encobfus/blob/master/LICENSE"><img src="https://img.shields.io/github/license/encobfus/encobfus.svg"/></a>
 </p>
-# encobfus
+
+<h1>encobfus</h1>
 A program that obfuscates Python code with multiple types of encryption
