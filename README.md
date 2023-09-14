@@ -9,3 +9,4 @@ A program that obfuscates Python code with multiple types of encryption
 
 * Fernet
 
+<p>If you can help with the development of this code, I would be grateful.</p>
