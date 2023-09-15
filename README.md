@@ -8,5 +8,5 @@ A program that obfuscates Python code with multiple types of encryption
 ## Encryption Methods(in most recent version)
 
 * Fernet
-
+* RSA
 <p>If you can help with the development of this code, I would be grateful.</p>
