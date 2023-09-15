@@ -60,7 +60,6 @@ if args.encmethod == "fernet":
 	rc = randomstr(32)
 	rd = randomstr(32)
 	re = randomstr(32)
-	secret_import = f"from cryptography.fernet import Fernet as {ras}"
 	with open(args.output, "w") as f:
 		f.write(f"""
 {ra} = {k}
